@@ -17,9 +17,9 @@ To __manually run__ application:
 
  * copy 
  
-        file _Face\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs_ 
-        file _Flickr\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.Flickr_ 
-        file _Migrations\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Mongo\Mongo.Migrations_
+        file Face\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs
+        file Flickr\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.Flickr
+        file Migrations\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Mongo\Mongo.Migrations
  * open [cmder](http://cmder.net/) (or Power Shell) and run next commands from repository dir
 
     dotnet run --project Faces-Int20h-BackEnd\Mongo\Mongo.Migrations\Mongo.Migrations.csproj
