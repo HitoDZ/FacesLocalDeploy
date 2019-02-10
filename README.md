@@ -30,8 +30,8 @@ To __manually run__ application:
         copy-item -path Migrations\Defaults.cs -destination Faces-Int20h-BackEnd\Mongo\Mongo.Migrations
  * open [cmder](http://cmder.net/) (or Power Shell) and run next commands from repository dir
 
-    dotnet run --project Faces-Int20h-BackEnd\Mongo\Mongo.Migrations\Mongo.Migrations.csproj
-    dotnet run --project Faces-Int20h-BackEnd\Host\Host.csproj
+        dotnet run --project Faces-Int20h-BackEnd\Mongo\Mongo.Migrations\Mongo.Migrations.csproj
+        dotnet run --project Faces-Int20h-BackEnd\Host\Host.csproj
  * in another window from repository dir run next
       
         cd int20h-2019-test-task-front-end
