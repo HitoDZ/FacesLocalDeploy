@@ -17,9 +17,9 @@ To __manually run__ application:
 
  * copy 
  
-     file Face\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs
-     file Flickr\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.Flickr
-     file Migrations\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Mongo\Mongo.Migrations
+     File *Face\Defaults.cs* to folder *Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs*
+     File *Flickr\Defaults.cs* to folder *Faces-Int20h-BackEnd\Api.Flickr*
+     File *Migrations\Defaults.cs* to folder *Faces-Int20h-BackEnd\Mongo\Mongo.Migrations*
      
      Or simply run this in powershell:
      
