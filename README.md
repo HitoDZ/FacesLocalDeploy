@@ -15,10 +15,10 @@ To __manually run__ application:
   - https://github.com/HitoDZ/Faces-Int20h-BackEnd.git
   - https://github.com/v-zhuravsky/int20h-2019-test-task-front-end
 
- * copy file _Face\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs_
+ * copy 
  
-        file _Flickr\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.Flickr_
- 
+        file _Face\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.FacePlusPlus\Defaults.cs_ 
+        file _Flickr\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Api.Flickr_ 
         file _Migrations\Defaults.cs_ to folder _Faces-Int20h-BackEnd\Mongo\Mongo.Migrations_
  * open [cmder](http://cmder.net/) (or Power Shell) and run next commands from repository dir
 
