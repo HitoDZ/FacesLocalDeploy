@@ -33,6 +33,7 @@ To __manually run__ application:
     dotnet run --project Faces-Int20h-BackEnd\Mongo\Mongo.Migrations\Mongo.Migrations.csproj
     dotnet run --project Faces-Int20h-BackEnd\Host\Host.csproj
  * in another window from repository dir run next
-cd int20h-2019-test-task-front-end
-npm i
-npm start
+      
+        cd int20h-2019-test-task-front-end
+        npm i
+        npm start
