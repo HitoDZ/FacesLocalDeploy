@@ -14,8 +14,9 @@ To __script run__:
 
 To __manually run__ application: 
  * clone repositories 
-  - https://github.com/HitoDZ/Faces-Int20h-BackEnd.git
-  - https://github.com/v-zhuravsky/int20h-2019-test-task-front-end
+         
+         https://github.com/HitoDZ/Faces-Int20h-BackEnd.git
+         https://github.com/v-zhuravsky/int20h-2019-test-task-front-end
 
  * copy 
  
